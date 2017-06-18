@@ -1,1 +1,1 @@
-"# Blog.Javascript.GoodReadsAPI" 
+"# Demo.JavaScript.GoodReadsAPI" 
