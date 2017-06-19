@@ -44,6 +44,8 @@ export default class DemoMain {
     }
 
     thirdAttempt() {
+        // GoodReads API returns result in "XML" format.
+        // "XML" is the "input" format fed into YQL
         let proxyUrl = proxify(this.url, { inputFormat: 'xml' });
 
         this.logResult(proxyUrl);
@@ -52,9 +54,9 @@ export default class DemoMain {
 
 
 var demo = new DemoMain();
-// demo.firstAttempt();
+demo.firstAttempt();
 // demo.secondAttempt();
-demo.thirdAttempt();
+// demo.thirdAttempt();
 
 
 
