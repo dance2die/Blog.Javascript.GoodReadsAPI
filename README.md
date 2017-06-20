@@ -17,10 +17,20 @@ Now install NPM packages either using [npm](https://www.npmjs.com/) or [yarn](ht
 ```bash
 npm install
 ```
-### ordfdsfasdfsdfsdf
+### or
 
 ```bash
 yarn install
+```
+
+Now start web-dev-server.
+
+```bash
+npm start
+```
+### or
+```bash
+yarn start
 ```
 
 
