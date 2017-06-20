@@ -12,6 +12,18 @@ The file should look like the following.
 
 Sign up on GoodReads [developer website](https://www.goodreads.com/api/keys) to get developer keys.df
 
+Now install NPM packages either using [npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/en/).
+
+```bash
+npm install
+```
+### ordfdsfasdfsdfsdf
+
+```bash
+yarn install
+```
+
+
 License: [MIT](https://opensource.org/licenses/MIT)
 
 
