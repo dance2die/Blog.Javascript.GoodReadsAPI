@@ -4,12 +4,13 @@ After cloning the source, you need to create a file named `apikeys.js` in the ro
 
 The file should look like the following.
 
+```javascript
     module.exports = {
         "goodreadsKey": "GOOD READS KEY",
         "goodreadsSecret": "SECRET",
         "goodreadsUserID": "GOODREADS_USERID"
     }
-
+```
 Sign up on GoodReads [developer website](https://www.goodreads.com/api/keys) to get developer keys.df
 
 Now install NPM packages either using [npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/en/).
