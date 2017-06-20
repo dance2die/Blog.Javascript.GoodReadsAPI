@@ -1,4 +1,4 @@
-#Source for blog [How to call GoodReads API using YQL](https://www.slightedgecoder.com/?p=470&preview=true)
+# Source for blog [How to call GoodReads API using YQL](https://www.slightedgecoder.com/?p=470&preview=true)
 
 After cloning the source, you need to create a file named `apikeys.js` in the root folder.
 
@@ -10,7 +10,7 @@ The file should look like the following.
         "goodreadsUserID": "GOODREADS_USERID"
     }
 
-Sign up on GoodReads [developer website](https://www.goodreads.com/api/keys) to get developer keys.
+Sign up on GoodReads [developer website](https://www.goodreads.com/api/keys) to get developer keys.df
 
 License: [MIT](https://opensource.org/licenses/MIT)
 
