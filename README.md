@@ -12,6 +12,7 @@ The file should look like the following.
 
 Sign up on GoodReads [developer website](https://www.goodreads.com/api/keys) to get developer keys.
 
+License: [MIT](https://opensource.org/licenses/MIT)
 
 
 
